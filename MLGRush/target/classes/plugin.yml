@@ -1,0 +1,8 @@
+name: MLGRush
+version: 1.2
+author: Lucas
+main: de.teamholy.mlgrush.MLGRush
+commands:
+  setup:
+  mlgrush:
+  build:
