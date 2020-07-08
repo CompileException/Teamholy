@@ -1,0 +1,5 @@
+name: Bungeebridge
+author: Lucas
+version: 0.0.1
+main: de.teamholy.bridge.main.BungeeBridge
+commands:
